@@ -1,4 +1,5 @@
-package test.org.untils;
+import io.cucumber.junit.platform.engine.Cucumber;
 
+@Cucumber
 public class CucumberRunner {
 }
